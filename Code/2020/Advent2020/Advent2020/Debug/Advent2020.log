@@ -1,0 +1,11 @@
+﻿  Advent2020.cpp
+C:\Users\thund\Desktop\Advent2020\Advent2020\Advent2020.cpp(29,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\thund\Desktop\Advent2020\Advent2020\Advent2020.cpp(39,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\thund\Desktop\Advent2020\Advent2020\Advent2020.cpp(64,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\thund\Desktop\Advent2020\Advent2020\Advent2020.cpp(89,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\thund\Desktop\Advent2020\Advent2020\Advent2020.cpp(114,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\thund\Desktop\Advent2020\Advent2020\Advent2020.cpp(133,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\thund\Desktop\Advent2020\Advent2020\Advent2020.cpp(161,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\thund\Desktop\Advent2020\Advent2020\Advent2020.cpp(219,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\thund\Desktop\Advent2020\Advent2020\Advent2020.cpp(248,22): warning C4018: '<': signed/unsigned mismatch
+  Advent2020.vcxproj -> C:\Users\thund\Desktop\Advent2020\Debug\Advent2020.exe
